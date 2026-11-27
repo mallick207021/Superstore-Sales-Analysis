@@ -16,7 +16,7 @@ Tools used: Python, Pandas, Matplotlib, Seaborn
 2. Exploratory Data Analysis - Sales vs Profit by Category, Region, Sub-Category
 3. Visualized trends with bar charts, heatmaps & line plots
 4. Gave business recommendations to increase profit
-5.  ## 📈 Visualizations
+  ## 📈 Visualizations
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](images/monthly_sales.png)
