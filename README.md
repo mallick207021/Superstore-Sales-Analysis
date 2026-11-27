@@ -31,8 +31,8 @@ Tools used: Python, Pandas, Matplotlib, Seaborn
 - Improve sales strategy in Central region
 -
 ## 📂 Files in this Repo
-- `Superstore_Analysis.ipynb` - Full analysis with code & charts
-- `superstore.csv` - Dataset
+- `Sales.ipynb` - Full analysis with code & charts
+- `sales.csv` - Dataset
 
 ## 👤 Author
 **Raj** | Aspiring Data Analyst
