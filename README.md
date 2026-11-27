@@ -21,6 +21,13 @@ Tools used: Python, Pandas, Matplotlib, Seaborn
 - Reduce discount on Furniture (Tables, Bookcases)
 - Focus marketing on high-profit products like Phones, Accessories, Copiers
 - Improve sales strategy in Central region
+- ## 📈 Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales Trend](images/monthly_sales.png)
+
+### Sales by Category
+![Sales by Category](images/category_sales.png)
 
 ## 📂 Files in this Repo
 - `Superstore_Analysis.ipynb` - Full analysis with code & charts
