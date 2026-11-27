@@ -16,12 +16,7 @@ Tools used: Python, Pandas, Matplotlib, Seaborn
 2. Exploratory Data Analysis - Sales vs Profit by Category, Region, Sub-Category
 3. Visualized trends with bar charts, heatmaps & line plots
 4. Gave business recommendations to increase profit
-
-## 💡 Business Recommendations
-- Reduce discount on Furniture (Tables, Bookcases)
-- Focus marketing on high-profit products like Phones, Accessories, Copiers
-- Improve sales strategy in Central region
-- ## 📈 Visualizations
+5.  ## 📈 Visualizations
 
 ### Monthly Sales Trend
 ![Monthly Sales Trend](images/monthly_sales.png)
@@ -29,6 +24,12 @@ Tools used: Python, Pandas, Matplotlib, Seaborn
 ### Sales by Category
 ![Sales by Category](images/category_sales.png)
 
+
+## 💡 Business Recommendations
+- Reduce discount on Furniture (Tables, Bookcases)
+- Focus marketing on high-profit products like Phones, Accessories, Copiers
+- Improve sales strategy in Central region
+-
 ## 📂 Files in this Repo
 - `Superstore_Analysis.ipynb` - Full analysis with code & charts
 - `superstore.csv` - Dataset
